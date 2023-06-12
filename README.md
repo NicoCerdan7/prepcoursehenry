@@ -1,2 +1,2 @@
 # prepcoursehenry
-repositorio de prueba modulo 2 henry
+nico cerdan este proyecto es una prueba de como crear un repositorio y clonarlo
